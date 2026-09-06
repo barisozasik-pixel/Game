@@ -8,9 +8,9 @@
       {
         "id": "A",
         "text": "Ambarları açıp tohumluk dağıt",
-        "gold": -50000,
-        "happiness": 4,
-        "population": 18000,
+        "gold": -200000,
+        "happiness": 3,
+        "population": 5000,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -18,9 +18,9 @@
       {
         "id": "B",
         "text": "Ambarları ordu için kapalı tut",
-        "gold": 90000,
-        "happiness": -3,
-        "population": -7000,
+        "gold": 0,
+        "happiness": -4,
+        "population": -20000,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -36,9 +36,9 @@
       {
         "id": "A",
         "text": "Yeni kuyular kazdır",
-        "gold": -97000,
-        "happiness": 2,
-        "population": 9000,
+        "gold": -150000,
+        "happiness": 3,
+        "population": 7000,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -47,8 +47,8 @@
         "id": "B",
         "text": "Halkın kendi kuyusunu açmasını bekle",
         "gold": 0,
-        "happiness": 0,
-        "population": -3000,
+        "happiness": -3,
+        "population": -12000,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -64,9 +64,9 @@
       {
         "id": "A",
         "text": "Narh koyup tahıl satın al",
-        "gold": -144000,
-        "happiness": 0,
-        "population": 15000,
+        "gold": -250000,
+        "happiness": 4,
+        "population": 8000,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -74,9 +74,9 @@
       {
         "id": "B",
         "text": "Serbest satışa izin ver",
-        "gold": 140000,
+        "gold": 50000,
         "happiness": -4,
-        "population": -12000,
+        "population": -15000,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -92,9 +92,9 @@
       {
         "id": "A",
         "text": "Suyu köyler arasında paylaştır",
-        "gold": 0,
-        "happiness": 1,
-        "population": 5000,
+        "gold": -40000,
+        "happiness": 4,
+        "population": 6000,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -102,9 +102,9 @@
       {
         "id": "B",
         "text": "Suyu büyük çiftliklere bırak",
-        "gold": -50000,
-        "happiness": -2,
-        "population": -6000,
+        "gold": 20000,
+        "happiness": -4,
+        "population": -18000,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -122,7 +122,7 @@
         "text": "Yeni kanal ve değirmen yaptır",
         "gold": -238000,
         "happiness": 3,
-        "population": 30000,
+        "population": 8000,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -130,15 +130,16 @@
       {
         "id": "B",
         "text": "Bölgeyi geçici olarak tahliye et",
-        "gold": 70000,
-        "happiness": -1,
-        "population": 0,
+        "gold": -60000,
+        "happiness": -3,
+        "population": -10000,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
       }
     ]
   },
+
   {
     "id": "evt_006",
     "category": "Ticaret",
@@ -149,18 +150,18 @@
         "id": "A",
         "text": "Kervana koruma ve pazar yeri sağla",
         "gold": -60000,
-        "happiness": -1,
-        "population": 12000,
+        "happiness": 2,
+        "population": 7000,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": 0
+        "educatedPopulation": 500
       },
       {
         "id": "B",
         "text": "Yüksek gümrük alıp geçişine izin ver",
-        "gold": 212000,
-        "happiness": -3,
-        "population": -10000,
+        "gold": 180000,
+        "happiness": -2,
+        "population": 0,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -176,9 +177,9 @@
       {
         "id": "A",
         "text": "Rıhtımı taratıp depoları onar",
-        "gold": -81000,
-        "happiness": 0,
-        "population": 0,
+        "gold": -180000,
+        "happiness": 3,
+        "population": 4000,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -186,9 +187,9 @@
       {
         "id": "B",
         "text": "Liman harçlarını artır",
-        "gold": 110000,
-        "happiness": -2,
-        "population": -5000,
+        "gold": 120000,
+        "happiness": -3,
+        "population": -4000,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -205,8 +206,8 @@
         "id": "A",
         "text": "Yeni pazarı devlet desteğiyle kur",
         "gold": -128000,
-        "happiness": 2,
-        "population": 25000,
+        "happiness": 3,
+        "population": 7000,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -214,9 +215,9 @@
       {
         "id": "B",
         "text": "Pazar imtiyazını bir loncaya ver",
-        "gold": -20000,
-        "happiness": 0,
-        "population": 4000,
+        "gold": 100000,
+        "happiness": 1,
+        "population": 3000,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -233,8 +234,8 @@
         "id": "A",
         "text": "Yerel esnafa geçici destek ver",
         "gold": -175000,
-        "happiness": 1,
-        "population": 8000,
+        "happiness": 2,
+        "population": 5000,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -242,9 +243,9 @@
       {
         "id": "B",
         "text": "Yabancı mallara ek vergi koy",
-        "gold": 98000,
-        "happiness": -4,
-        "population": -15000,
+        "gold": 100000,
+        "happiness": -3,
+        "population": -5000,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -260,17 +261,17 @@
       {
         "id": "A",
         "text": "Karşılıklı ticaret anlaşması yap",
-        "gold": -100000,
+        "gold": -70000,
         "happiness": 3,
-        "population": 0,
+        "population": 4000,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": 0
+        "educatedPopulation": 500
       },
       {
         "id": "B",
         "text": "Tek seferlik imtiyaz bedeli al",
-        "gold": 127000,
+        "gold": 200000,
         "happiness": -2,
         "population": -2000,
         "soldiers": 0,
@@ -279,6 +280,7 @@
       }
     ]
   },
+
   {
     "id": "evt_011",
     "category": "Halk",
@@ -288,9 +290,9 @@
       {
         "id": "A",
         "text": "Şenliği güvenlik altında finanse et",
-        "gold": -269000,
+        "gold": -120000,
         "happiness": 4,
-        "population": 18000,
+        "population": 3000,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -298,9 +300,9 @@
       {
         "id": "B",
         "text": "Şenliği masrafsız biçimde serbest bırak",
-        "gold": 90000,
-        "happiness": -3,
-        "population": -7000,
+        "gold": 20000,
+        "happiness": 1,
+        "population": 2000,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -317,8 +319,8 @@
         "id": "A",
         "text": "El konulan malları iade edip soruştur",
         "gold": -65000,
-        "happiness": 2,
-        "population": 9000,
+        "happiness": 4,
+        "population": 5000,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -326,10 +328,10 @@
       {
         "id": "B",
         "text": "Tahsilatı askerle sürdür",
-        "gold": 0,
-        "happiness": 0,
-        "population": -3000,
-        "soldiers": 0,
+        "gold": 50000,
+        "happiness": -4,
+        "population": -8000,
+        "soldiers": -500,
         "guns": 0,
         "educatedPopulation": 0
       }
@@ -345,8 +347,8 @@
         "id": "A",
         "text": "Loncalarla ücret uzlaşması yap",
         "gold": -80000,
-        "happiness": 0,
-        "population": 15000,
+        "happiness": 3,
+        "population": 5000,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -354,9 +356,9 @@
       {
         "id": "B",
         "text": "Grevci ustaları loncadan çıkar",
-        "gold": 140000,
+        "gold": 40000,
         "happiness": -4,
-        "population": -12000,
+        "population": -7000,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -373,8 +375,8 @@
         "id": "A",
         "text": "Yeni mahalle ve çeşmeler kur",
         "gold": -159000,
-        "happiness": 1,
-        "population": 5000,
+        "happiness": 3,
+        "population": 7000,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -382,9 +384,9 @@
       {
         "id": "B",
         "text": "Şehre giriş ve oturma harcı koy",
-        "gold": -50000,
-        "happiness": -2,
-        "population": -6000,
+        "gold": 70000,
+        "happiness": -3,
+        "population": -5000,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -401,8 +403,8 @@
         "id": "A",
         "text": "Borçları erteleyip ekmeği destekle",
         "gold": -206000,
-        "happiness": 3,
-        "population": 30000,
+        "happiness": 4,
+        "population": 8000,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -410,15 +412,16 @@
       {
         "id": "B",
         "text": "Talebi reddedip düzeni koru",
-        "gold": 70000,
-        "happiness": -1,
-        "population": 0,
+        "gold": 60000,
+        "happiness": -3,
+        "population": -6000,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
       }
     ]
   },
+
   {
     "id": "evt_016",
     "category": "Askeri",
@@ -428,21 +431,21 @@
       {
         "id": "A",
         "text": "Sınıra takviye ve sığınak gönder",
-        "gold": -253000,
-        "happiness": -1,
-        "population": 12000,
-        "soldiers": 350,
-        "guns": 1,
+        "gold": -180000,
+        "happiness": 2,
+        "population": 4000,
+        "soldiers": 2500,
+        "guns": 3,
         "educatedPopulation": 0
       },
       {
         "id": "B",
         "text": "Köyleri iç bölgelere taşı",
-        "gold": 0,
+        "gold": -70000,
         "happiness": -3,
-        "population": -10000,
-        "soldiers": -400,
-        "guns": -1,
+        "population": -8000,
+        "soldiers": -1000,
+        "guns": 0,
         "educatedPopulation": 0
       }
     ]
@@ -457,20 +460,20 @@
         "id": "A",
         "text": "Depoyu yenileyip barutu değiştir",
         "gold": -300000,
-        "happiness": 0,
+        "happiness": 1,
         "population": 0,
-        "soldiers": 800,
-        "guns": 2,
+        "soldiers": 0,
+        "guns": 4,
         "educatedPopulation": 0
       },
       {
         "id": "B",
         "text": "Sağlam mühimmatı ayırıp kalanı imha et",
-        "gold": 110000,
-        "happiness": -2,
-        "population": -5000,
-        "soldiers": -900,
-        "guns": -2,
+        "gold": -20000,
+        "happiness": -1,
+        "population": 0,
+        "soldiers": 0,
+        "guns": -4,
         "educatedPopulation": 0
       }
     ]
@@ -484,21 +487,21 @@
       {
         "id": "A",
         "text": "Maaşları ödeyip asker ailelerini yerleştir",
-        "gold": -96000,
-        "happiness": 2,
-        "population": 25000,
+        "gold": -120000,
+        "happiness": 3,
+        "population": 7000,
         "soldiers": 1500,
-        "guns": 3,
+        "guns": 1,
         "educatedPopulation": 0
       },
       {
         "id": "B",
         "text": "Garnizonu küçültüp askerleri geri çağır",
-        "gold": -20000,
-        "happiness": 0,
-        "population": 4000,
+        "gold": 30000,
+        "happiness": 1,
+        "population": 2000,
         "soldiers": -1800,
-        "guns": -3,
+        "guns": -1,
         "educatedPopulation": 0
       }
     ]
@@ -512,21 +515,21 @@
       {
         "id": "A",
         "text": "Ustalara hammadde desteği ver",
-        "gold": 50000,
-        "happiness": 1,
-        "population": 8000,
-        "soldiers": 2400,
-        "guns": 1,
+        "gold": -110000,
+        "happiness": 2,
+        "population": 2000,
+        "soldiers": 0,
+        "guns": 5,
         "educatedPopulation": 0
       },
       {
         "id": "B",
         "text": "Silahı yabancı tüccarlardan satın al",
-        "gold": 160000,
-        "happiness": -4,
-        "population": -15000,
-        "soldiers": -3200,
-        "guns": -4,
+        "gold": -230000,
+        "happiness": 0,
+        "population": 0,
+        "soldiers": 0,
+        "guns": 6,
         "educatedPopulation": 0
       }
     ]
@@ -540,25 +543,26 @@
       {
         "id": "A",
         "text": "Birlikleri maaşla terhis et",
-        "gold": -190000,
-        "happiness": 3,
-        "population": 0,
-        "soldiers": 3000,
-        "guns": 2,
+        "gold": -90000,
+        "happiness": 4,
+        "population": 3000,
+        "soldiers": -3000,
+        "guns": -2,
         "educatedPopulation": 0
       },
       {
         "id": "B",
         "text": "Sıkıyönetim ve ağır ceza uygula",
-        "gold": 0,
-        "happiness": -2,
-        "population": -2000,
-        "soldiers": -5000,
-        "guns": -5,
+        "gold": -40000,
+        "happiness": -4,
+        "population": -3000,
+        "soldiers": -1000,
+        "guns": 0,
         "educatedPopulation": 0
       }
     ]
   },
+
   {
     "id": "evt_021",
     "category": "Doğa",
@@ -570,19 +574,19 @@
         "text": "Afetzedelere yardım ve yeni set yap",
         "gold": -237000,
         "happiness": 4,
-        "population": 18000,
+        "population": 7000,
         "soldiers": 0,
-        "guns": 1,
+        "guns": 0,
         "educatedPopulation": 0
       },
       {
         "id": "B",
         "text": "Zarar gören köyleri başka bölgeye taşı",
-        "gold": 90000,
-        "happiness": -3,
-        "population": -7000,
-        "soldiers": -400,
-        "guns": -1,
+        "gold": -90000,
+        "happiness": -1,
+        "population": -5000,
+        "soldiers": 0,
+        "guns": 0,
         "educatedPopulation": 0
       }
     ]
@@ -597,20 +601,20 @@
         "id": "A",
         "text": "Tekneleri onarıp ailelere yardım et",
         "gold": -284000,
-        "happiness": 2,
-        "population": 9000,
+        "happiness": 4,
+        "population": 6000,
         "soldiers": 0,
-        "guns": 2,
+        "guns": 0,
         "educatedPopulation": 0
       },
       {
         "id": "B",
         "text": "Balıkçılık vergisini kaldır ama yardım verme",
-        "gold": -64000,
-        "happiness": 0,
-        "population": -3000,
-        "soldiers": -900,
-        "guns": -2,
+        "gold": -30000,
+        "happiness": -2,
+        "population": -4000,
+        "soldiers": 0,
+        "guns": 0,
         "educatedPopulation": 0
       }
     ]
@@ -624,21 +628,21 @@
       {
         "id": "A",
         "text": "Geçitlere kurtarma birlikleri gönder",
-        "gold": -80000,
-        "happiness": 0,
-        "population": 15000,
-        "soldiers": 0,
-        "guns": 3,
+        "gold": -100000,
+        "happiness": 3,
+        "population": 5000,
+        "soldiers": -200,
+        "guns": 0,
         "educatedPopulation": 0
       },
       {
         "id": "B",
         "text": "Geçitleri bahara kadar kapat",
-        "gold": 140000,
-        "happiness": -4,
-        "population": -12000,
-        "soldiers": -1800,
-        "guns": -3,
+        "gold": 30000,
+        "happiness": -3,
+        "population": -6000,
+        "soldiers": 0,
+        "guns": 0,
         "educatedPopulation": 0
       }
     ]
@@ -653,20 +657,20 @@
         "id": "A",
         "text": "Yeniden inşayı hazineden karşıla",
         "gold": -127000,
-        "happiness": 1,
+        "happiness": 3,
         "population": 5000,
         "soldiers": 0,
-        "guns": 1,
+        "guns": 0,
         "educatedPopulation": 0
       },
       {
         "id": "B",
         "text": "Halkı geçici çadır kentlere yerleştir",
-        "gold": -158000,
-        "happiness": -2,
-        "population": -6000,
-        "soldiers": -3200,
-        "guns": -4,
+        "gold": -80000,
+        "happiness": 0,
+        "population": -3000,
+        "soldiers": 0,
+        "guns": 0,
         "educatedPopulation": 0
       }
     ]
@@ -681,24 +685,25 @@
         "id": "A",
         "text": "Yangın hattı açıp köyleri koru",
         "gold": -300000,
-        "happiness": 3,
-        "population": 30000,
+        "happiness": 4,
+        "population": 8000,
         "soldiers": 0,
-        "guns": 2,
+        "guns": 0,
         "educatedPopulation": 0
       },
       {
         "id": "B",
         "text": "Bölgeyi tahliye edip yangının sönmesini bekle",
-        "gold": 70000,
-        "happiness": -1,
-        "population": 0,
-        "soldiers": -5000,
-        "guns": -5,
+        "gold": -50000,
+        "happiness": -3,
+        "population": -7000,
+        "soldiers": 0,
+        "guns": 0,
         "educatedPopulation": 0
       }
     ]
   },
+
   {
     "id": "evt_026",
     "category": "Diplomasi",
@@ -709,21 +714,21 @@
         "id": "A",
         "text": "Elçiliğe izin verip karşı heyet gönder",
         "gold": -60000,
-        "happiness": -1,
-        "population": 12000,
+        "happiness": 2,
+        "population": 2000,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": 500
+        "educatedPopulation": 1000
       },
       {
         "id": "B",
         "text": "Hediyeleri kabul edip teklifi ertele",
-        "gold": 0,
-        "happiness": -3,
-        "population": -10000,
-        "soldiers": -400,
+        "gold": 50000,
+        "happiness": -2,
+        "population": 0,
+        "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": -700
+        "educatedPopulation": 0
       }
     ]
   },
@@ -736,22 +741,22 @@
       {
         "id": "A",
         "text": "Sınırlı miktarda tahıl sat",
-        "gold": 0,
+        "gold": 120000,
         "happiness": 0,
         "population": 0,
-        "soldiers": 800,
+        "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": 1200
+        "educatedPopulation": 0
       },
       {
         "id": "B",
         "text": "İnsani yardım olarak tahıl gönder",
-        "gold": -299000,
-        "happiness": -2,
-        "population": -5000,
-        "soldiers": -900,
+        "gold": -180000,
+        "happiness": 3,
+        "population": 3000,
+        "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": -1800
+        "educatedPopulation": 0
       }
     ]
   },
@@ -765,21 +770,21 @@
         "id": "A",
         "text": "Ortak bir hudut heyeti kur",
         "gold": -64000,
-        "happiness": 2,
-        "population": 25000,
+        "happiness": 3,
+        "population": 2000,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": 2500
+        "educatedPopulation": 500
       },
       {
         "id": "B",
         "text": "Tartışmalı araziye asker yerleştir",
         "gold": -95000,
-        "happiness": 0,
-        "population": 4000,
-        "soldiers": -1800,
-        "guns": 0,
-        "educatedPopulation": -3500
+        "happiness": -1,
+        "population": 0,
+        "soldiers": 1800,
+        "guns": 1,
+        "educatedPopulation": 0
       }
     ]
   },
@@ -792,22 +797,22 @@
       {
         "id": "A",
         "text": "Yerleşim ve ticaret imtiyazı ver",
-        "gold": 50000,
-        "happiness": 1,
+        "gold": 80000,
+        "happiness": 2,
         "population": 8000,
-        "soldiers": 2400,
+        "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": 4000
+        "educatedPopulation": 3000
       },
       {
         "id": "B",
         "text": "Yalnızca ticaret izni ver",
-        "gold": 160000,
-        "happiness": -4,
-        "population": -15000,
-        "soldiers": -3200,
+        "gold": 100000,
+        "happiness": 0,
+        "population": 2000,
+        "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": -6500
+        "educatedPopulation": 500
       }
     ]
   },
@@ -825,20 +830,21 @@
         "population": 0,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": 5000
+        "educatedPopulation": 0
       },
       {
         "id": "B",
         "text": "Casusluk suçlamasını ilan et",
-        "gold": 0,
-        "happiness": -2,
-        "population": -2000,
-        "soldiers": -5000,
+        "gold": -30000,
+        "happiness": -4,
+        "population": -3000,
+        "soldiers": 500,
         "guns": 0,
-        "educatedPopulation": -10000
+        "educatedPopulation": 0
       }
     ]
   },
+
   {
     "id": "evt_031",
     "category": "Üretim",
@@ -849,20 +855,20 @@
         "id": "A",
         "text": "Devlet madeni ve işçi kasabası kur",
         "gold": -205000,
-        "happiness": 4,
-        "population": 18000,
+        "happiness": 3,
+        "population": 7000,
         "soldiers": 0,
-        "guns": 1,
+        "guns": 0,
         "educatedPopulation": 0
       },
       {
         "id": "B",
         "text": "İşletme hakkını mültezime sat",
-        "gold": 90000,
-        "happiness": -3,
-        "population": -7000,
+        "gold": 180000,
+        "happiness": -2,
+        "population": 3000,
         "soldiers": 0,
-        "guns": -1,
+        "guns": 0,
         "educatedPopulation": 0
       }
     ]
@@ -877,20 +883,20 @@
         "id": "A",
         "text": "Loncanın talebini kabul et",
         "gold": -120000,
-        "happiness": 2,
-        "population": 9000,
+        "happiness": 3,
+        "population": 4000,
         "soldiers": 0,
-        "guns": 2,
+        "guns": 0,
         "educatedPopulation": 0
       },
       {
         "id": "B",
         "text": "Siparişi yabancı tüccara ver",
-        "gold": 0,
-        "happiness": 0,
+        "gold": -80000,
+        "happiness": -1,
         "population": -3000,
         "soldiers": 0,
-        "guns": -2,
+        "guns": 0,
         "educatedPopulation": 0
       }
     ]
@@ -905,21 +911,21 @@
         "id": "A",
         "text": "Ustalara yerleşim ve sermaye ver",
         "gold": -80000,
-        "happiness": 0,
-        "population": 15000,
+        "happiness": 2,
+        "population": 6000,
         "soldiers": 0,
-        "guns": 3,
-        "educatedPopulation": 0
+        "guns": 0,
+        "educatedPopulation": 1500
       },
       {
         "id": "B",
         "text": "Sınırlı sayıda ustaya izin ver",
-        "gold": 140000,
-        "happiness": -4,
-        "population": -12000,
+        "gold": 40000,
+        "happiness": 0,
+        "population": 2000,
         "soldiers": 0,
-        "guns": -3,
-        "educatedPopulation": 0
+        "guns": 0,
+        "educatedPopulation": 500
       }
     ]
   },
@@ -933,20 +939,20 @@
         "id": "A",
         "text": "Tahılı devlet adına satın al",
         "gold": -95000,
-        "happiness": 1,
-        "population": 5000,
+        "happiness": 3,
+        "population": 4000,
         "soldiers": 0,
-        "guns": 1,
+        "guns": 0,
         "educatedPopulation": 0
       },
       {
         "id": "B",
         "text": "Fazlayı dışarı satıp vergi al",
         "gold": 220000,
-        "happiness": -2,
-        "population": -6000,
+        "happiness": -1,
+        "population": 0,
         "soldiers": 0,
-        "guns": -4,
+        "guns": 0,
         "educatedPopulation": 0
       }
     ]
@@ -961,8 +967,8 @@
         "id": "A",
         "text": "Hammadde sevkiyatını devlet üstlensin",
         "gold": -142000,
-        "happiness": 3,
-        "population": 30000,
+        "happiness": 2,
+        "population": 3000,
         "soldiers": 0,
         "guns": 2,
         "educatedPopulation": 0
@@ -970,15 +976,16 @@
       {
         "id": "B",
         "text": "Üretimi askerî ihtiyaçlarla sınırla",
-        "gold": 70000,
-        "happiness": -1,
+        "gold": 60000,
+        "happiness": -2,
         "population": 0,
         "soldiers": 0,
-        "guns": -5,
+        "guns": 1,
         "educatedPopulation": 0
       }
     ]
   },
+
   {
     "id": "evt_036",
     "category": "Saray",
@@ -988,9 +995,9 @@
       {
         "id": "A",
         "text": "Saray onarımını sınırlı tut",
-        "gold": -189000,
-        "happiness": -1,
-        "population": 12000,
+        "gold": -90000,
+        "happiness": 2,
+        "population": 0,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -998,9 +1005,9 @@
       {
         "id": "B",
         "text": "Masrafı eyaletlerden topla",
-        "gold": 0,
+        "gold": 70000,
         "happiness": -3,
-        "population": -10000,
+        "population": -4000,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -1016,8 +1023,8 @@
       {
         "id": "A",
         "text": "Muafiyet talebini reddet",
-        "gold": 0,
-        "happiness": 0,
+        "gold": 60000,
+        "happiness": 2,
         "population": 0,
         "soldiers": 0,
         "guns": 0,
@@ -1026,9 +1033,9 @@
       {
         "id": "B",
         "text": "Muafiyet karşılığında hazine yardımı al",
-        "gold": 110000,
-        "happiness": -2,
-        "population": -5000,
+        "gold": 130000,
+        "happiness": -3,
+        "population": -3000,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -1045,8 +1052,8 @@
         "id": "A",
         "text": "Görkemli halk töreni düzenle",
         "gold": -180000,
-        "happiness": 2,
-        "population": 25000,
+        "happiness": 4,
+        "population": 3000,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -1055,8 +1062,8 @@
         "id": "B",
         "text": "Sade bir saray töreni yap",
         "gold": -20000,
-        "happiness": 0,
-        "population": 4000,
+        "happiness": 1,
+        "population": 0,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -1073,8 +1080,8 @@
         "id": "A",
         "text": "Ziyafeti küçültüp kalanını halka dağıt",
         "gold": -79000,
-        "happiness": 1,
-        "population": 8000,
+        "happiness": 3,
+        "population": 4000,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -1082,9 +1089,9 @@
       {
         "id": "B",
         "text": "Ziyafeti özel bağışlarla düzenle",
-        "gold": 160000,
-        "happiness": -4,
-        "population": -15000,
+        "gold": 80000,
+        "happiness": -2,
+        "population": 0,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -1105,13 +1112,13 @@
         "population": 0,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": 0
+        "educatedPopulation": 500
       },
       {
         "id": "B",
         "text": "Güçlü hiziplerden biriyle anlaş",
-        "gold": 0,
-        "happiness": -2,
+        "gold": 30000,
+        "happiness": -3,
         "population": -2000,
         "soldiers": 0,
         "guns": 0,
@@ -1119,6 +1126,7 @@
       }
     ]
   },
+
   {
     "id": "evt_041",
     "category": "Sağlık",
@@ -1130,20 +1138,20 @@
         "text": "Geçici darüşşifalar kur ve ilaç dağıt",
         "gold": -173000,
         "happiness": 4,
-        "population": 18000,
+        "population": 7000,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": 500
+        "educatedPopulation": 1000
       },
       {
         "id": "B",
         "text": "Şehir kapılarını kapatıp karantina uygula",
-        "gold": 90000,
-        "happiness": -3,
-        "population": -7000,
-        "soldiers": -400,
+        "gold": -60000,
+        "happiness": -2,
+        "population": -8000,
+        "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": -700
+        "educatedPopulation": -500
       }
     ]
   },
@@ -1157,21 +1165,21 @@
         "id": "A",
         "text": "Yeni su hattı ve kuyular yaptır",
         "gold": -220000,
-        "happiness": 2,
-        "population": 9000,
+        "happiness": 4,
+        "population": 6000,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": 1200
+        "educatedPopulation": 500
       },
       {
         "id": "B",
         "text": "Kuyuları geçici olarak kapat",
-        "gold": 0,
-        "happiness": 0,
-        "population": -3000,
-        "soldiers": -900,
+        "gold": -20000,
+        "happiness": -2,
+        "population": -4000,
+        "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": -1800
+        "educatedPopulation": 0
       }
     ]
   },
@@ -1185,21 +1193,21 @@
         "id": "A",
         "text": "Arazi ve kuruluş parası ver",
         "gold": -267000,
-        "happiness": 0,
-        "population": 15000,
+        "happiness": 3,
+        "population": 5000,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": 2500
+        "educatedPopulation": 1000
       },
       {
         "id": "B",
         "text": "Sadece arazi tahsis et",
-        "gold": 140000,
-        "happiness": -4,
-        "population": -12000,
-        "soldiers": -1800,
+        "gold": -20000,
+        "happiness": 1,
+        "population": 2000,
+        "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": -3500
+        "educatedPopulation": 500
       }
     ]
   },
@@ -1213,21 +1221,21 @@
         "id": "A",
         "text": "Temizlik işçileri ve kanal sistemi kur",
         "gold": -180000,
-        "happiness": 1,
+        "happiness": 3,
         "population": 5000,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": 4000
+        "educatedPopulation": 500
       },
       {
         "id": "B",
         "text": "Mahallelere temizlik zorunluluğu getir",
-        "gold": 0,
+        "gold": -10000,
         "happiness": -2,
-        "population": -6000,
-        "soldiers": -3200,
+        "population": 0,
+        "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": -6500
+        "educatedPopulation": 0
       }
     ]
   },
@@ -1240,25 +1248,26 @@
       {
         "id": "A",
         "text": "Gemiyi kırk gün karantinaya al",
-        "gold": -300000,
-        "happiness": 3,
-        "population": 30000,
+        "gold": -120000,
+        "happiness": 2,
+        "population": 0,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": 5000
+        "educatedPopulation": 0
       },
       {
         "id": "B",
         "text": "Yükü boşaltıp mürettebatı geri gönder",
         "gold": 70000,
-        "happiness": -1,
-        "population": 0,
-        "soldiers": -5000,
+        "happiness": -4,
+        "population": -5000,
+        "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": -10000
+        "educatedPopulation": 0
       }
     ]
   },
+
   {
     "id": "evt_046",
     "category": "Altyapı",
@@ -1269,8 +1278,8 @@
         "id": "A",
         "text": "Taş köprüyü yeniden inşa et",
         "gold": -157000,
-        "happiness": -1,
-        "population": 12000,
+        "happiness": 3,
+        "population": 4000,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -1278,9 +1287,9 @@
       {
         "id": "B",
         "text": "Geçici ahşap köprü kur",
-        "gold": -188000,
-        "happiness": -3,
-        "population": -10000,
+        "gold": -70000,
+        "happiness": 1,
+        "population": 2000,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -1296,9 +1305,9 @@
       {
         "id": "A",
         "text": "Yolu taşla kaplat",
-        "gold": 0,
-        "happiness": 0,
-        "population": 0,
+        "gold": -130000,
+        "happiness": 3,
+        "population": 3000,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -1306,9 +1315,9 @@
       {
         "id": "B",
         "text": "Bakımı çevre köylere yükle",
-        "gold": 110000,
-        "happiness": -2,
-        "population": -5000,
+        "gold": 30000,
+        "happiness": -3,
+        "population": 0,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -1325,8 +1334,8 @@
         "id": "A",
         "text": "Mendireği hemen onar",
         "gold": -251000,
-        "happiness": 2,
-        "population": 25000,
+        "happiness": 3,
+        "population": 3000,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -1334,9 +1343,9 @@
       {
         "id": "B",
         "text": "Gemilerden geçici onarım harcı al",
-        "gold": -282000,
-        "happiness": 0,
-        "population": 4000,
+        "gold": 90000,
+        "happiness": -1,
+        "population": 0,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -1353,8 +1362,8 @@
         "id": "A",
         "text": "Yeni kemer hattı inşa et",
         "gold": -298000,
-        "happiness": 1,
-        "population": 8000,
+        "happiness": 4,
+        "population": 6000,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -1362,9 +1371,9 @@
       {
         "id": "B",
         "text": "Suyu dönüşümlü dağıt",
-        "gold": -78000,
-        "happiness": -4,
-        "population": -15000,
+        "gold": 0,
+        "happiness": -3,
+        "population": -5000,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -1382,7 +1391,7 @@
         "text": "Meydanı genişletip bedel öde",
         "gold": -94000,
         "happiness": 3,
-        "population": 0,
+        "population": 2000,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -1390,15 +1399,16 @@
       {
         "id": "B",
         "text": "Pazarı sur dışına taşı",
-        "gold": 0,
-        "happiness": -2,
-        "population": -2000,
+        "gold": -30000,
+        "happiness": -1,
+        "population": 0,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
       }
     ]
   },
+
   {
     "id": "evt_051",
     "category": "Eğitim",
@@ -1410,20 +1420,20 @@
         "text": "Maaşları ödeyip burs ver",
         "gold": -141000,
         "happiness": 4,
-        "population": 18000,
+        "population": 3000,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": 500
+        "educatedPopulation": 3500
       },
       {
         "id": "B",
         "text": "Dersleri vakıflara devret",
-        "gold": 90000,
-        "happiness": -3,
-        "population": -7000,
+        "gold": 20000,
+        "happiness": -1,
+        "population": 0,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": -700
+        "educatedPopulation": -1000
       }
     ]
   },
@@ -1437,21 +1447,21 @@
         "id": "A",
         "text": "Devlet mektebi kur",
         "gold": -188000,
-        "happiness": 2,
-        "population": 9000,
+        "happiness": 3,
+        "population": 3000,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": 1200
+        "educatedPopulation": 3000
       },
       {
         "id": "B",
         "text": "Gezici öğretmenler gönder",
-        "gold": 0,
-        "happiness": 0,
-        "population": -3000,
+        "gold": -60000,
+        "happiness": 2,
+        "population": 1000,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": -1800
+        "educatedPopulation": 1800
       }
     ]
   },
@@ -1465,21 +1475,21 @@
         "id": "A",
         "text": "Kütüphane ve kâtipler kur",
         "gold": -235000,
-        "happiness": 0,
-        "population": 15000,
+        "happiness": 2,
+        "population": 1000,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": 2500
+        "educatedPopulation": 3000
       },
       {
         "id": "B",
         "text": "Kitapları mevcut medreseye ver",
-        "gold": 140000,
-        "happiness": -4,
-        "population": -12000,
+        "gold": -30000,
+        "happiness": 1,
+        "population": 0,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": -3500
+        "educatedPopulation": 1800
       }
     ]
   },
@@ -1493,21 +1503,21 @@
         "id": "A",
         "text": "Bilginleri ve ailelerini yerleştir",
         "gold": -282000,
-        "happiness": 1,
-        "population": 5000,
+        "happiness": 3,
+        "population": 6000,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": 4000
+        "educatedPopulation": 4500
       },
       {
         "id": "B",
         "text": "Yalnızca bilginlere saray görevi ver",
         "gold": -50000,
-        "happiness": -2,
-        "population": -6000,
+        "happiness": 0,
+        "population": 0,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": -6500
+        "educatedPopulation": 1500
       }
     ]
   },
@@ -1520,9 +1530,9 @@
       {
         "id": "A",
         "text": "Araştırma kurumunu finanse et",
-        "gold": -78000,
+        "gold": -180000,
         "happiness": 3,
-        "population": 30000,
+        "population": 1000,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 5000
@@ -1530,15 +1540,16 @@
       {
         "id": "B",
         "text": "Çalışmaları küçük bir heyetle sınırla",
-        "gold": 70000,
+        "gold": -40000,
         "happiness": -1,
         "population": 0,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": -10000
+        "educatedPopulation": 1000
       }
     ]
   },
+
   {
     "id": "evt_056",
     "category": "Güvenlik",
@@ -1549,20 +1560,20 @@
         "id": "A",
         "text": "Köylere muhafız ve tazminat gönder",
         "gold": -125000,
-        "happiness": -1,
-        "population": 12000,
-        "soldiers": 350,
-        "guns": 0,
+        "happiness": 3,
+        "population": 5000,
+        "soldiers": 1500,
+        "guns": 1,
         "educatedPopulation": 0
       },
       {
         "id": "B",
         "text": "Bölgeyi boşaltıp büyük takip başlat",
-        "gold": 0,
+        "gold": -100000,
         "happiness": -3,
-        "population": -10000,
-        "soldiers": -400,
-        "guns": 0,
+        "population": -9000,
+        "soldiers": -1200,
+        "guns": -1,
         "educatedPopulation": 0
       }
     ]
@@ -1577,19 +1588,19 @@
         "id": "A",
         "text": "Düzenli şehir muhafızları kur",
         "gold": -172000,
-        "happiness": 0,
-        "population": 0,
-        "soldiers": 800,
-        "guns": 0,
+        "happiness": 3,
+        "population": 2000,
+        "soldiers": 1800,
+        "guns": 1,
         "educatedPopulation": 0
       },
       {
         "id": "B",
         "text": "Mahalle nöbetlerini resmileştir",
-        "gold": 110000,
-        "happiness": -2,
-        "population": -5000,
-        "soldiers": -900,
+        "gold": -20000,
+        "happiness": 1,
+        "population": 0,
+        "soldiers": -500,
         "guns": 0,
         "educatedPopulation": 0
       }
@@ -1605,8 +1616,8 @@
         "id": "A",
         "text": "Devriyeleri hazineden finanse et",
         "gold": -219000,
-        "happiness": 2,
-        "population": 25000,
+        "happiness": 3,
+        "population": 1000,
         "soldiers": 1500,
         "guns": 0,
         "educatedPopulation": 0
@@ -1614,10 +1625,10 @@
       {
         "id": "B",
         "text": "Esnaftan koruma harcı al",
-        "gold": -20000,
-        "happiness": 0,
-        "population": 4000,
-        "soldiers": -1800,
+        "gold": 70000,
+        "happiness": -1,
+        "population": 0,
+        "soldiers": 500,
         "guns": 0,
         "educatedPopulation": 0
       }
@@ -1632,20 +1643,20 @@
       {
         "id": "A",
         "text": "Teftiş heyeti gönderip teslim olanları bağışla",
-        "gold": 50000,
-        "happiness": 1,
-        "population": 8000,
-        "soldiers": 2400,
+        "gold": -50000,
+        "happiness": 2,
+        "population": 1000,
+        "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
       },
       {
         "id": "B",
         "text": "Mallara el koyup ağır ceza uygula",
-        "gold": 141000,
+        "gold": 180000,
         "happiness": -4,
-        "population": -15000,
-        "soldiers": -3200,
+        "population": -4000,
+        "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
       }
@@ -1660,25 +1671,26 @@
       {
         "id": "A",
         "text": "Kalıcı karakollar kur",
-        "gold": -62000,
+        "gold": -160000,
         "happiness": 3,
-        "population": 0,
-        "soldiers": 3000,
-        "guns": 0,
+        "population": 4000,
+        "soldiers": 2500,
+        "guns": 2,
         "educatedPopulation": 0
       },
       {
         "id": "B",
         "text": "Silahlı kervanlara geçiş izni ver",
-        "gold": 0,
-        "happiness": -2,
-        "population": -2000,
-        "soldiers": -5000,
+        "gold": 40000,
+        "happiness": -1,
+        "population": 0,
+        "soldiers": -500,
         "guns": 0,
         "educatedPopulation": 0
       }
     ]
   },
+
   {
     "id": "evt_061",
     "category": "Tarım",
@@ -1689,8 +1701,8 @@
         "id": "A",
         "text": "Devlet alımıyla fiyatı koru",
         "gold": -109000,
-        "happiness": 4,
-        "population": 18000,
+        "happiness": 3,
+        "population": 4000,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -1699,8 +1711,8 @@
         "id": "B",
         "text": "Fazla ürünü ihraç et",
         "gold": 199000,
-        "happiness": -3,
-        "population": -7000,
+        "happiness": 1,
+        "population": 0,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -1717,8 +1729,8 @@
         "id": "A",
         "text": "Borçları yeniden yapılandır",
         "gold": -156000,
-        "happiness": 2,
-        "population": 9000,
+        "happiness": 3,
+        "population": 5000,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -1726,9 +1738,9 @@
       {
         "id": "B",
         "text": "Borç karşılığı toprak satışına izin ver",
-        "gold": 0,
-        "happiness": 0,
-        "population": -3000,
+        "gold": 80000,
+        "happiness": -2,
+        "population": -5000,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -1745,8 +1757,8 @@
         "id": "A",
         "text": "Tohumluk satın alıp dağıt",
         "gold": -203000,
-        "happiness": 0,
-        "population": 15000,
+        "happiness": 3,
+        "population": 7000,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -1754,9 +1766,9 @@
       {
         "id": "B",
         "text": "Tohum için düşük faizli devlet akçesi ver",
-        "gold": 140000,
-        "happiness": -4,
-        "population": -12000,
+        "gold": -100000,
+        "happiness": 2,
+        "population": 4000,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -1773,8 +1785,8 @@
         "id": "A",
         "text": "Hasta sürüleri tazminatla itlaf et",
         "gold": -250000,
-        "happiness": 1,
-        "population": 5000,
+        "happiness": 2,
+        "population": 2000,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -1782,9 +1794,9 @@
       {
         "id": "B",
         "text": "Hayvan pazarlarını kapatıp bekle",
-        "gold": -50000,
+        "gold": -30000,
         "happiness": -2,
-        "population": -6000,
+        "population": -3000,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -1800,25 +1812,26 @@
       {
         "id": "A",
         "text": "Örnek çiftlikler kur",
-        "gold": -297000,
+        "gold": -150000,
         "happiness": 3,
-        "population": 30000,
+        "population": 4000,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": 0
+        "educatedPopulation": 1000
       },
       {
         "id": "B",
         "text": "Yöntemi isteyen köylere bırak",
-        "gold": 70000,
-        "happiness": -1,
-        "population": 0,
+        "gold": -20000,
+        "happiness": 1,
+        "population": 2000,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": 0
+        "educatedPopulation": 500
       }
     ]
   },
+
   {
     "id": "evt_066",
     "category": "Maliye",
@@ -1829,8 +1842,8 @@
         "id": "A",
         "text": "Saray harcamalarını kes",
         "gold": 80000,
-        "happiness": -1,
-        "population": 12000,
+        "happiness": 2,
+        "population": 0,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -1839,8 +1852,8 @@
         "id": "B",
         "text": "Sarraflardan kısa vadeli borç al",
         "gold": 150000,
-        "happiness": -3,
-        "population": -10000,
+        "happiness": -1,
+        "population": 0,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -1857,8 +1870,8 @@
         "id": "A",
         "text": "Tahsildarları yargılayıp parayı iade et",
         "gold": -120000,
-        "happiness": 0,
-        "population": 0,
+        "happiness": 4,
+        "population": 3000,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -1867,8 +1880,8 @@
         "id": "B",
         "text": "Eksik kayıtları kapatıp tahsilatı sürdür",
         "gold": 110000,
-        "happiness": -2,
-        "population": -5000,
+        "happiness": -3,
+        "population": -4000,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -1885,18 +1898,18 @@
         "id": "A",
         "text": "Yeni ve güvenilir sikke bastır",
         "gold": -180000,
-        "happiness": 2,
-        "population": 25000,
+        "happiness": 3,
+        "population": 0,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": 0
+        "educatedPopulation": 500
       },
       {
         "id": "B",
         "text": "Eski sikkeleri düşük değerle geri al",
-        "gold": -20000,
-        "happiness": 0,
-        "population": 4000,
+        "gold": -60000,
+        "happiness": 1,
+        "population": 0,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -1913,8 +1926,8 @@
         "id": "A",
         "text": "Sınırlı borç al",
         "gold": 100000,
-        "happiness": 1,
-        "population": 8000,
+        "happiness": -1,
+        "population": 0,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -1923,8 +1936,8 @@
         "id": "B",
         "text": "Vergi gelirinin bir bölümünü peşin sat",
         "gold": 180000,
-        "happiness": -4,
-        "population": -15000,
+        "happiness": -3,
+        "population": 0,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -1941,8 +1954,8 @@
         "id": "A",
         "text": "Servetin bir kısmını halka dağıt",
         "gold": -150000,
-        "happiness": 3,
-        "population": 0,
+        "happiness": 4,
+        "population": 3000,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
@@ -1952,13 +1965,14 @@
         "text": "Servetin tamamını hazineye geçir",
         "gold": 250000,
         "happiness": -2,
-        "population": -2000,
+        "population": 0,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 0
       }
     ]
   },
+
   {
     "id": "evt_071",
     "category": "Denizcilik",
@@ -1968,21 +1982,21 @@
       {
         "id": "A",
         "text": "Kurtarma filosu gönder",
-        "gold": -77000,
+        "gold": -170000,
         "happiness": 4,
-        "population": 18000,
+        "population": 3000,
         "soldiers": 0,
-        "guns": 1,
+        "guns": 2,
         "educatedPopulation": 0
       },
       {
         "id": "B",
         "text": "Gemilerin kendi imkânıyla dönmesini bekle",
-        "gold": 90000,
+        "gold": 30000,
         "happiness": -3,
-        "population": -7000,
+        "population": -3000,
         "soldiers": 0,
-        "guns": -1,
+        "guns": -2,
         "educatedPopulation": 0
       }
     ]
@@ -1997,20 +2011,20 @@
         "id": "A",
         "text": "Tersaneyi yenileyip ustaları tut",
         "gold": -124000,
-        "happiness": 2,
-        "population": 9000,
+        "happiness": 3,
+        "population": 3000,
         "soldiers": 0,
-        "guns": 2,
-        "educatedPopulation": 0
+        "guns": 3,
+        "educatedPopulation": 500
       },
       {
         "id": "B",
         "text": "Gemi siparişini tüccar tersanesine ver",
-        "gold": 0,
-        "happiness": 0,
-        "population": -3000,
+        "gold": -100000,
+        "happiness": 1,
+        "population": 0,
         "soldiers": 0,
-        "guns": -2,
+        "guns": 2,
         "educatedPopulation": 0
       }
     ]
@@ -2025,20 +2039,20 @@
         "id": "A",
         "text": "Konvoy sistemi kur",
         "gold": -171000,
-        "happiness": 0,
-        "population": 15000,
-        "soldiers": 0,
-        "guns": 3,
+        "happiness": 2,
+        "population": 2000,
+        "soldiers": 2000,
+        "guns": 2,
         "educatedPopulation": 0
       },
       {
         "id": "B",
         "text": "Tüccarlara kendi korumasını kurdur",
-        "gold": -202000,
-        "happiness": -4,
-        "population": -12000,
+        "gold": 70000,
+        "happiness": -1,
+        "population": 0,
         "soldiers": 0,
-        "guns": -3,
+        "guns": 0,
         "educatedPopulation": 0
       }
     ]
@@ -2053,20 +2067,20 @@
         "id": "A",
         "text": "Yükü toplayıp sahibine iade et",
         "gold": -20000,
-        "happiness": 1,
-        "population": 5000,
+        "happiness": 3,
+        "population": 1000,
         "soldiers": 0,
-        "guns": 1,
+        "guns": 0,
         "educatedPopulation": 0
       },
       {
         "id": "B",
         "text": "Kurtarma vergisi kesip kalanı iade et",
-        "gold": 90000,
-        "happiness": -2,
-        "population": -6000,
+        "gold": 70000,
+        "happiness": 0,
+        "population": 0,
         "soldiers": 0,
-        "guns": -4,
+        "guns": 0,
         "educatedPopulation": 0
       }
     ]
@@ -2080,25 +2094,26 @@
       {
         "id": "A",
         "text": "Rotayı devlet gemileriyle dene",
-        "gold": -300000,
-        "happiness": 3,
-        "population": 30000,
+        "gold": -220000,
+        "happiness": 2,
+        "population": 2000,
         "soldiers": 0,
         "guns": 2,
-        "educatedPopulation": 0
+        "educatedPopulation": 500
       },
       {
         "id": "B",
         "text": "Riski özel tüccarlara bırak",
-        "gold": 70000,
-        "happiness": -1,
-        "population": 0,
+        "gold": 80000,
+        "happiness": 1,
+        "population": 1000,
         "soldiers": 0,
-        "guns": -5,
+        "guns": 0,
         "educatedPopulation": 0
       }
     ]
   },
+
   {
     "id": "evt_076",
     "category": "Kültür",
@@ -2109,8 +2124,8 @@
         "id": "A",
         "text": "Halka açık şenliği finanse et",
         "gold": -61000,
-        "happiness": -1,
-        "population": 12000,
+        "happiness": 4,
+        "population": 3000,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 500
@@ -2118,12 +2133,12 @@
       {
         "id": "B",
         "text": "Şenliği loncaların bağışına bırak",
-        "gold": 0,
-        "happiness": -3,
-        "population": -10000,
+        "gold": 20000,
+        "happiness": 1,
+        "population": 1000,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": -700
+        "educatedPopulation": 0
       }
     ]
   },
@@ -2137,21 +2152,21 @@
         "id": "A",
         "text": "Sanatkârları aileleriyle yerleştir",
         "gold": -108000,
-        "happiness": 0,
-        "population": 0,
+        "happiness": 3,
+        "population": 5000,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": 5000
+        "educatedPopulation": 2500
       },
       {
         "id": "B",
         "text": "Yalnızca saray için çalışanları kabul et",
-        "gold": 110000,
-        "happiness": -2,
-        "population": -5000,
+        "gold": -40000,
+        "happiness": 0,
+        "population": 1000,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": -1800
+        "educatedPopulation": 1000
       }
     ]
   },
@@ -2165,8 +2180,8 @@
         "id": "A",
         "text": "Atölyeleri halka da aç",
         "gold": -180000,
-        "happiness": 2,
-        "population": 25000,
+        "happiness": 3,
+        "population": 2000,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 2500
@@ -2174,12 +2189,12 @@
       {
         "id": "B",
         "text": "Saray kadrosunu küçült",
-        "gold": -20000,
-        "happiness": 0,
-        "population": 4000,
+        "gold": 50000,
+        "happiness": 2,
+        "population": 0,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": -3500
+        "educatedPopulation": -1000
       }
     ]
   },
@@ -2193,21 +2208,21 @@
         "id": "A",
         "text": "Anıtı başka yerde ve daha küçük yap",
         "gold": -60000,
-        "happiness": 1,
-        "population": 8000,
+        "happiness": 2,
+        "population": 0,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": 4000
+        "educatedPopulation": 500
       },
       {
         "id": "B",
         "text": "Dükkânları bedel ödeyerek kamulaştır",
         "gold": -250000,
-        "happiness": -4,
-        "population": -15000,
+        "happiness": -3,
+        "population": -3000,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": -6500
+        "educatedPopulation": 0
       }
     ]
   },
@@ -2220,25 +2235,26 @@
       {
         "id": "A",
         "text": "Gösterilere izin ve küçük destek ver",
-        "gold": -249000,
-        "happiness": 3,
-        "population": 0,
+        "gold": -60000,
+        "happiness": 4,
+        "population": 2000,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": 5000
+        "educatedPopulation": 1000
       },
       {
         "id": "B",
         "text": "İzin ver ama devlet desteği verme",
         "gold": 0,
-        "happiness": -2,
-        "population": -2000,
+        "happiness": 1,
+        "population": 1000,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": -10000
+        "educatedPopulation": 0
       }
     ]
   },
+
   {
     "id": "evt_081",
     "category": "Din",
@@ -2248,9 +2264,9 @@
       {
         "id": "A",
         "text": "Aşevi ve sığınakları finanse et",
-        "gold": -296000,
+        "gold": -180000,
         "happiness": 4,
-        "population": 18000,
+        "population": 6000,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 500
@@ -2258,12 +2274,12 @@
       {
         "id": "B",
         "text": "Yardımı yerel bağışlara bırak",
-        "gold": -76000,
-        "happiness": -3,
-        "population": -7000,
+        "gold": 0,
+        "happiness": -2,
+        "population": -3000,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": -700
+        "educatedPopulation": 0
       }
     ]
   },
@@ -2276,22 +2292,22 @@
       {
         "id": "A",
         "text": "Ortak kullanım için arazi tahsis et",
-        "gold": -120000,
-        "happiness": 2,
-        "population": 9000,
+        "gold": -80000,
+        "happiness": 3,
+        "population": 3000,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": 1200
+        "educatedPopulation": 500
       },
       {
         "id": "B",
         "text": "Her topluluğun kendi kaynağını bulmasını iste",
         "gold": 0,
-        "happiness": 0,
-        "population": -3000,
+        "happiness": -1,
+        "population": 0,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": -1800
+        "educatedPopulation": 0
       }
     ]
   },
@@ -2305,8 +2321,8 @@
         "id": "A",
         "text": "Toplantıyı finanse edip kararları uygula",
         "gold": -139000,
-        "happiness": 0,
-        "population": 15000,
+        "happiness": 2,
+        "population": 0,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 2500
@@ -2314,12 +2330,12 @@
       {
         "id": "B",
         "text": "Küçük bir danışma heyeti kur",
-        "gold": -170000,
-        "happiness": -4,
-        "population": -12000,
+        "gold": -50000,
+        "happiness": 1,
+        "population": 0,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": -3500
+        "educatedPopulation": 1000
       }
     ]
   },
@@ -2333,21 +2349,21 @@
         "id": "A",
         "text": "Sınırlı muafiyetle teklifi kabul et",
         "gold": -50000,
-        "happiness": 1,
-        "population": 5000,
+        "happiness": 3,
+        "population": 4000,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": 4000
+        "educatedPopulation": 1000
       },
       {
         "id": "B",
         "text": "Muafiyeti reddedip bağış iste",
-        "gold": 70000,
-        "happiness": -2,
-        "population": -6000,
+        "gold": 30000,
+        "happiness": -1,
+        "population": 0,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": -6500
+        "educatedPopulation": 0
       }
     ]
   },
@@ -2360,25 +2376,26 @@
       {
         "id": "A",
         "text": "Bayramlık erzak dağıt",
-        "gold": -233000,
-        "happiness": 3,
-        "population": 30000,
+        "gold": -150000,
+        "happiness": 4,
+        "population": 5000,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": 5000
+        "educatedPopulation": 0
       },
       {
         "id": "B",
         "text": "Fiyat denetimi yap ama yardım dağıtma",
-        "gold": -264000,
-        "happiness": -1,
-        "population": 0,
+        "gold": -30000,
+        "happiness": 0,
+        "population": -1000,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": -10000
+        "educatedPopulation": 0
       }
     ]
   },
+
   {
     "id": "evt_086",
     "category": "Nüfus",
@@ -2389,21 +2406,21 @@
         "id": "A",
         "text": "Göçmenleri köylere ve kasabalara yerleştir",
         "gold": -280000,
-        "happiness": -1,
-        "population": 18000,
+        "happiness": 3,
+        "population": 10000,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": 2500
+        "educatedPopulation": 2000
       },
       {
         "id": "B",
         "text": "Yalnızca usta ve çiftçi aileleri kabul et",
-        "gold": 0,
-        "happiness": -3,
-        "population": -5000,
+        "gold": -60000,
+        "happiness": -1,
+        "population": 5000,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": 500
+        "educatedPopulation": 1500
       }
     ]
   },
@@ -2417,21 +2434,21 @@
         "id": "A",
         "text": "Vergi indirimi ve kira desteği ver",
         "gold": -120000,
-        "happiness": 0,
-        "population": 8000,
+        "happiness": 3,
+        "population": 7000,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": 1200
+        "educatedPopulation": 1000
       },
       {
         "id": "B",
         "text": "Göçü engelleme, şehri küçült",
-        "gold": 0,
-        "happiness": -2,
-        "population": -20000,
+        "gold": 30000,
+        "happiness": -3,
+        "population": -10000,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": -1800
+        "educatedPopulation": -1000
       }
     ]
   },
@@ -2445,21 +2462,21 @@
         "id": "A",
         "text": "Mahalleyi tanıyıp yol, çeşme ve karakol kur",
         "gold": -123000,
-        "happiness": 2,
-        "population": 22000,
-        "soldiers": 0,
+        "happiness": 3,
+        "population": 6000,
+        "soldiers": 500,
         "guns": 0,
-        "educatedPopulation": 2500
+        "educatedPopulation": 500
       },
       {
         "id": "B",
         "text": "Yerleşimi dağıtıp nüfusu köylere gönder",
-        "gold": -154000,
-        "happiness": 0,
-        "population": -12000,
+        "gold": -50000,
+        "happiness": -2,
+        "population": -7000,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": -3500
+        "educatedPopulation": 0
       }
     ]
   },
@@ -2473,21 +2490,21 @@
         "id": "A",
         "text": "Sur dışında yeni kasabalar kurup nüfusu dağıt",
         "gold": -170000,
-        "happiness": 1,
-        "population": 50000,
+        "happiness": 3,
+        "population": 10000,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": 4000
+        "educatedPopulation": 1000
       },
       {
         "id": "B",
         "text": "Şehre yeni yerleşimi geçici yasakla",
-        "gold": 160000,
+        "gold": 50000,
         "happiness": -4,
-        "population": -15000,
+        "population": -8000,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": -6500
+        "educatedPopulation": -500
       }
     ]
   },
@@ -2501,24 +2518,25 @@
         "id": "A",
         "text": "Arazi ve vergi muafiyetiyle yerleştir",
         "gold": -217000,
-        "happiness": 3,
-        "population": 35000,
-        "soldiers": 0,
+        "happiness": 4,
+        "population": 10000,
+        "soldiers": 1000,
         "guns": 0,
-        "educatedPopulation": 5000
+        "educatedPopulation": 1000
       },
       {
         "id": "B",
         "text": "Küçük bir öncü gruba izin ver",
-        "gold": 0,
-        "happiness": -2,
-        "population": 10000,
-        "soldiers": 0,
+        "gold": -40000,
+        "happiness": 1,
+        "population": 5000,
+        "soldiers": 500,
         "guns": 0,
-        "educatedPopulation": -10000
+        "educatedPopulation": 500
       }
     ]
   },
+
   {
     "id": "evt_091",
     "category": "Casusluk",
@@ -2528,9 +2546,9 @@
       {
         "id": "A",
         "text": "Yeni ajanlar gönder ve haberleri doğrula",
-        "gold": -220000,
-        "happiness": 4,
-        "population": 18000,
+        "gold": -120000,
+        "happiness": 1,
+        "population": 0,
         "soldiers": 0,
         "guns": 0,
         "educatedPopulation": 500
@@ -2538,12 +2556,12 @@
       {
         "id": "B",
         "text": "Sınır birliklerini sessizce hazırla",
-        "gold": 90000,
-        "happiness": -3,
-        "population": -7000,
-        "soldiers": 0,
-        "guns": 0,
-        "educatedPopulation": -700
+        "gold": -90000,
+        "happiness": 0,
+        "population": 0,
+        "soldiers": 1500,
+        "guns": 1,
+        "educatedPopulation": 0
       }
     ]
   },
@@ -2558,20 +2576,20 @@
         "text": "Gizli takip ve kontrollü tutuklama yap",
         "gold": -120000,
         "happiness": 2,
-        "population": 9000,
+        "population": 0,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": 1200
+        "educatedPopulation": 500
       },
       {
         "id": "B",
         "text": "Bütün şüphelileri sınır dışı et",
-        "gold": 0,
-        "happiness": 0,
-        "population": -3000,
+        "gold": -30000,
+        "happiness": -2,
+        "population": -4000,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": -1800
+        "educatedPopulation": -500
       }
     ]
   },
@@ -2586,20 +2604,20 @@
         "text": "Belgeleri satın alıp doğrulat",
         "gold": -107000,
         "happiness": 0,
-        "population": 15000,
+        "population": 0,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": 2500
+        "educatedPopulation": 1000
       },
       {
         "id": "B",
         "text": "Satıcıyı tutuklayıp sorgula",
-        "gold": 140000,
-        "happiness": -4,
-        "population": -12000,
-        "soldiers": 0,
+        "gold": -20000,
+        "happiness": -2,
+        "population": 0,
+        "soldiers": 500,
         "guns": 0,
-        "educatedPopulation": -3500
+        "educatedPopulation": 0
       }
     ]
   },
@@ -2614,20 +2632,20 @@
         "text": "Ailesini kabul edip muhbir ağı kur",
         "gold": -154000,
         "happiness": 1,
-        "population": 5000,
+        "population": 3000,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": 4000
+        "educatedPopulation": 1500
       },
       {
         "id": "B",
         "text": "Tek seferlik bilgi satın al",
-        "gold": -185000,
-        "happiness": -2,
-        "population": -6000,
+        "gold": -50000,
+        "happiness": 0,
+        "population": 0,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": -6500
+        "educatedPopulation": 500
       }
     ]
   },
@@ -2640,25 +2658,26 @@
       {
         "id": "A",
         "text": "Sessiz bir iç soruşturma başlat",
-        "gold": -300000,
-        "happiness": 3,
-        "population": 30000,
+        "gold": -100000,
+        "happiness": 2,
+        "population": 0,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": 5000
+        "educatedPopulation": 500
       },
       {
         "id": "B",
         "text": "Görevlileri topluca görevden al",
-        "gold": 70000,
-        "happiness": -1,
+        "gold": 60000,
+        "happiness": -3,
         "population": 0,
         "soldiers": 0,
         "guns": 0,
-        "educatedPopulation": -10000
+        "educatedPopulation": -1000
       }
     ]
   },
+
   {
     "id": "evt_096",
     "category": "İsyan",
@@ -2669,20 +2688,20 @@
         "id": "A",
         "text": "Heyet gönderip vergiyi geçici azalt",
         "gold": -60000,
-        "happiness": -1,
-        "population": 12000,
-        "soldiers": 350,
-        "guns": 1,
+        "happiness": 4,
+        "population": 4000,
+        "soldiers": 0,
+        "guns": 0,
         "educatedPopulation": 0
       },
       {
         "id": "B",
         "text": "Liderleri tutuklayıp gösteriyi dağıt",
-        "gold": -279000,
-        "happiness": -3,
-        "population": -10000,
-        "soldiers": -400,
-        "guns": -1,
+        "gold": -90000,
+        "happiness": -4,
+        "population": -7000,
+        "soldiers": -800,
+        "guns": 0,
         "educatedPopulation": 0
       }
     ]
@@ -2696,21 +2715,21 @@
       {
         "id": "A",
         "text": "Af ilan edip yönetici hakkında soruşturma aç",
-        "gold": -295000,
-        "happiness": 0,
-        "population": 0,
-        "soldiers": 800,
-        "guns": 2,
+        "gold": -100000,
+        "happiness": 3,
+        "population": 3000,
+        "soldiers": 1000,
+        "guns": 1,
         "educatedPopulation": 0
       },
       {
         "id": "B",
         "text": "Ordu gönderip isyanı bastır",
-        "gold": 110000,
-        "happiness": -2,
-        "population": -5000,
-        "soldiers": -900,
-        "guns": -2,
+        "gold": -220000,
+        "happiness": -4,
+        "population": -7000,
+        "soldiers": -3000,
+        "guns": -3,
         "educatedPopulation": 0
       }
     ]
@@ -2725,20 +2744,20 @@
         "id": "A",
         "text": "Tavizli bir uzlaşma meclisi kur",
         "gold": -90000,
-        "happiness": 2,
-        "population": 25000,
+        "happiness": 3,
+        "population": 2000,
         "soldiers": 1500,
-        "guns": 3,
-        "educatedPopulation": 0
+        "guns": 1,
+        "educatedPopulation": 500
       },
       {
         "id": "B",
         "text": "Muhaliflerin mülklerine el koy",
         "gold": 200000,
-        "happiness": 0,
-        "population": 4000,
-        "soldiers": -1800,
-        "guns": -3,
+        "happiness": -5,
+        "population": -4000,
+        "soldiers": -1500,
+        "guns": -1,
         "educatedPopulation": 0
       }
     ]
@@ -2753,20 +2772,20 @@
         "id": "A",
         "text": "Otlakları yeniden halka aç",
         "gold": 50000,
-        "happiness": 1,
-        "population": 8000,
-        "soldiers": 2400,
-        "guns": 1,
+        "happiness": 4,
+        "population": 5000,
+        "soldiers": 0,
+        "guns": 0,
         "educatedPopulation": 0
       },
       {
         "id": "B",
         "text": "Protestoyu dağıtıp düzeni sürdür",
-        "gold": -169000,
+        "gold": -100000,
         "happiness": -4,
-        "population": -15000,
-        "soldiers": -3200,
-        "guns": -4,
+        "population": -8000,
+        "soldiers": -2500,
+        "guns": -2,
         "educatedPopulation": 0
       }
     ]
@@ -2781,20 +2800,20 @@
         "id": "A",
         "text": "Tahıl dağıtıp genel af ilan et",
         "gold": -185000,
-        "happiness": 3,
-        "population": 0,
-        "soldiers": 3000,
-        "guns": 2,
+        "happiness": 4,
+        "population": 5000,
+        "soldiers": 0,
+        "guns": 0,
         "educatedPopulation": 0
       },
       {
         "id": "B",
         "text": "Askerle meydanı boşalt",
-        "gold": 0,
-        "happiness": -2,
-        "population": -2000,
-        "soldiers": -5000,
-        "guns": -5,
+        "gold": -50000,
+        "happiness": -5,
+        "population": -6000,
+        "soldiers": -3000,
+        "guns": -2,
         "educatedPopulation": 0
       }
     ]
